@@ -11,7 +11,7 @@
         </div>
         <div class="rightSection">
             <p>OOC:</p>
-            <p style="">Discrod name: <br><span style="font-weight: 700;"> gecike#3021</span></p>
+            <p style="">Discrod name: <br><span style="font-weight: 700;"> proba#3021</span></p>
             <p style="">Életkor: <br><span style="font-weight: 700;"> 14</span></p>
             <p style="margin-top: 8vmin;">Short bemutatkozás:</p>
             <div class="shortInt"></div>
